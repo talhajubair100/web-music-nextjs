@@ -16,7 +16,6 @@ interface Course {
 }
 
 const FeaturedCourses = () => {
-    console.log(courseData)
     const featuredCourses = courseData.courses.filter((course: Course) => course?.isFeatured)
 
     return (
