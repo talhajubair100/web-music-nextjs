@@ -1,0 +1,104 @@
+{
+    "courses" : [
+        {
+            "_id": 1,
+            "title": "Introduction to Python Programming",
+            "slug": "introduction-to-python-programming",
+            "description": "Learn Python programming from scratch. This course covers basic to advanced concepts of Python programming language.",
+            "price": 49.99,
+            "instructor": "John Smith",
+            "isFeatured": true,
+            "image": "python_course.jpg"
+        },
+        {
+            "_id": 2,
+            "title": "Web Development Fundamentals",
+            "slug": "web-development-fundamentals",
+            "description": "Master the fundamentals of web development including HTML, CSS, and JavaScript.",
+            "price": 59.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": false,
+            "image": "web_dev_fundamentals.jpg"
+        },
+        {
+            "_id": 3,
+            "title": "Data Science with R",
+            "slug": "data-science-with-r",
+            "description": "Explore data science techniques using the R programming language. This course covers statistical analysis, data visualization, and machine learning.",
+            "price": 79.99,
+            "instructor": "Michael Brown",
+            "isFeatured": true,
+            "image": "data_science_with_r.jpg"
+        },
+        {
+            "_id": 4,
+            "title": "Java Programming Masterclass",
+            "slug": "java-programming-masterclass",
+            "description": "Become an expert Java developer with this comprehensive masterclass. Learn Java from basic to advanced topics.",
+            "price": 69.99,
+            "instructor": "Sarah Adams",
+            "isFeatured": true,
+            "image": "java_masterclass.jpg"
+        },
+        {
+            "_id": 5,
+            "title": "Machine Learning Foundations",
+            "slug": "machine-learning-foundations",
+            "description": "Learn the fundamentals of machine learning algorithms and techniques. This course covers supervised and unsupervised learning methods.",
+            "price": 89.99,
+            "instructor": "David Rodriguez",
+            "isFeatured": false,
+            "image": "machine_learning_foundations.jpg"
+        },
+        {
+            "_id": 6,
+            "title": "iOS App Development with Swift",
+            "slug": "ios-app-development-with-swift",
+            "description": "Build iOS applications using Swift programming language. Cover app design, development, and deployment.",
+            "price": 99.99,
+            "instructor": "Anna Lee",
+            "isFeatured": true,
+            "image": "ios_app_development.jpg"
+        },
+        {
+            "_id": 7,
+            "title": "Android Development for Beginners",
+            "slug": "android-development-for-beginners",
+            "description": "Start your journey into Android app development. Learn about Android Studio, Java, and building user interfaces.",
+            "price": 79.99,
+            "instructor": "Mark Thompson",
+            "isFeatured": false,
+            "image": "android_development_beginners.jpg"
+        },
+        {
+            "_id": 8,
+            "title": "Cybersecurity Essentials",
+            "slug": "cybersecurity-essentials",
+            "description": "Understand the core concepts of cybersecurity including network security, cryptography, and security protocols.",
+            "price": 69.99,
+            "instructor": "Sophia Carter",
+            "isFeatured": true,
+            "image": "cybersecurity_essentials.jpg"
+        },
+        {
+            "_id": 9,
+            "title": "Advanced Data Analysis with Python",
+            "slug": "advanced-data-analysis-with-python",
+            "description": "Dive deeper into data analysis using Python. Cover advanced topics including data manipulation, visualization, and modeling.",
+            "price": 109.99,
+            "instructor": "Daniel Brown",
+            "isFeatured": true,
+            "image": "advanced_data_analysis_python.jpg"
+        },
+        {
+            "_id": 10,
+            "title": "UX Design Principles",
+            "slug": "ux-design-principles",
+            "description": "Learn the principles of user experience (UX) design. Cover user research, prototyping, and usability testing.",
+            "price": 59.99,
+            "instructor": "Emma Green",
+            "isFeatured": false,
+            "image": "ux_design_principles.jpg"
+        }
+    ]
+}
